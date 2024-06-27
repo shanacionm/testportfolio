@@ -12,5 +12,3 @@ const portfolioData = {
     ],
     contact: "You can contact me at email@example.com"
 };
-
-export default portfolioData;
